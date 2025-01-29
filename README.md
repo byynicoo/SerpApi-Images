@@ -14,6 +14,7 @@ This Python script utilizes [SerpApi](https://serpapi.com/) to perform Google Im
    pip install requests serpapi
 
 # SerpApi configuration
+```bash
 api_key = 'Replace with your SerpApi key'
 api_url = 'https://serpapi.com/search'
 
