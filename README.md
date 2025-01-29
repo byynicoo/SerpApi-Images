@@ -17,7 +17,6 @@ This Python script utilizes [SerpApi](https://serpapi.com/) to perform Google Im
 ## Setup your script using Api Key
 
   ```bash
-from serpapi import GoogleSearch
 
 params = {
     "q": "puppies",
