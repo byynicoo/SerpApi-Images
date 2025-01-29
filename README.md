@@ -17,7 +17,7 @@ This Python script utilizes [SerpApi](https://serpapi.com/) to perform Google Im
 ```bash
 api_key = 'Replace with your SerpApi key'
 api_url = 'https://serpapi.com/search'
-
+'''
 ## Setup your script using Api Key
   ```bash
 params = {
@@ -25,4 +25,4 @@ params = {
     "tbm": "isch",
     "api_key": "YOUR_SERPAPI_KEY"
 }
-
+'''
