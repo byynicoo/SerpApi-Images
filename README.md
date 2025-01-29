@@ -13,11 +13,12 @@ This Python script utilizes [SerpApi](https://serpapi.com/) to perform Google Im
    ```bash
    pip install requests serpapi
 
+# SerpApi configuration
+api_key = 'Replace with your SerpApi key'
+api_url = 'https://serpapi.com/search'
 
 ## Setup your script using Api Key
-
   ```bash
-
 params = {
     "q": "puppies",
     "tbm": "isch",
